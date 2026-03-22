@@ -1,4 +1,4 @@
-# Plumber Business — Full-Stack Website & Digital Strategy
+# Plumber Business 
 
 A complete digital transformation for a Brisbane plumbing business.
 Delivered as a freelance engagement covering full-stack development,
